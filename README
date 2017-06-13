@@ -1,0 +1,1 @@
+the file nsswitch.conf in this directory needs to be copied to /etc/nsswitch.conf of the shipyard-controller container for shipyard to communicate with other containers correctly with Ubuntu.
